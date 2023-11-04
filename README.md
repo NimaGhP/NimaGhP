@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Greetings! I'm Nima Ghasemi Parvin, a dedicated software engineer and a lifelong learner. I am currently advancing my knowledge and expertise through a Master's program in Computer Engineering at Yalova University, Turkey.
+Greetings! I'm Nima, a dedicated software engineer and a lifelong learner. I am currently advancing my knowledge and expertise through a Master's program in Computer Engineering at Yalova University, Turkey.
 
 ## Academic and Professional Journey
 
